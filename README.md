@@ -24,7 +24,7 @@ The following data are divided to two sets, one training and another test.
 * Combine subject data, activity label data and extracted measure data. Name this as "data"
 * Give the variables appropriate names. Just give two variables because others have already given a sufficient level descriptive names [Task 4]
 * Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
-** split the data for each activity and each subject
-** give each variables' avarages.
-** create the second tidy data by adding subject variables and activity variables. Names it "tydy.data"
+    * split the data for each activity and each subject
+    * give each variables' avarages.
+    * create the second tidy data by adding subject variables and activity variables. Names it "tydy.data"
 
